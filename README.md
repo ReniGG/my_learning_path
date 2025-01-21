@@ -13,7 +13,7 @@ The repository is organized into the following sections:
 
 ### 1. Goals and Plans 🎯
 - My current and future learning goals.
-### 2. Courses Completed 📚
+### 2. Courses 📚
 ### 3. Useful Resources 🌐
 ### 4. Projects 🔨
 - Hands-on projects I’ve worked on to apply and solidify my knowledge.
