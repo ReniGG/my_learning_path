@@ -1,22 +1,17 @@
 # my_learning_path
 
-Hi there! 🚀 This is where I document and track my programming learning journey.
+Hi there! 🚀 This is where I document and track my progress in learning programming.
 
-### Purpose
 This repository serves as:
-- A personal record of courses, websites, and resources I've completed.
-- A place to organize tools, tutorials, and projects that have contributed to my learning.
-- A source of inspiration and guidance for myself as I progress.
+- A record of courses, websites, and resources I've completed or plan to check out later.
+- A place to organize tools, tutorials and projects that have helped with my learning.
+- A source of inspiration and guidance as I continue to progress.
 
-### Structure
-The repository is organized into the following sections:
+## Structure
 
 ### 1. Goals and Plans 🎯
-- My current and future learning goals.
 ### 2. Courses 📚
 ### 3. Useful Resources 🌐
 ### 4. Projects 🔨
-- Hands-on projects I’ve worked on to apply and solidify my knowledge.
 ### 5. Core Skills and Tools ⚙️
-- Tools, frameworks, and workflows pivotal to my learning.
 ### 6. Current Focus 🔍
