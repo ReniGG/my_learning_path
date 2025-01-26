@@ -1,5 +1,7 @@
 # Courses 
 
+Here is a list of the courses and specializations I’m currently doing or planning to start in the future.
+
 | Offered by             | Course/Specialization Name | Topics Covered | Completion Status |
 |-----------------------|----------------------------|----------------|----------------|
 | University of Michigan | Python 3 Programming Specialization | 1) Conditional statements, Loops, and Data Structures<br> 2) Python Functions, Files, and Dictionaries<br> 3) Data Collection and Processing with Python<br> 4) Python Classes and Inheritance<br> 5) Python Project: Software Engineering and Image Manipulation | 4/5 |
